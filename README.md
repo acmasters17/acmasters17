@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam
 - 👀 I’m interested in Digital Forensics + Making Apps!
-- 🌱 I’m currently learning flutter, kotlin and more React stuff!
+- 🌱 I’m currently doing a lot of react & expo stuff!
 - 💞️ I’m looking to collaborate on everything and anything that helps others and the environment
 - 📫 How to reach me - https://www.linkedin.com/in/adam-masters-0310a9189/
 
