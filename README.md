@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Adam
-- 👀 I’m interested in Digital Forensics + Making Apps!
-- 🌱 I’m currently doing a lot of react & expo stuff!
-- 💞️ I’m looking to collaborate on everything and anything that helps others and the environment
-- 📫 How to reach me - https://www.linkedin.com/in/adam-masters-0310a9189/
+Hi, I'm Adam 😄
+
+Check out this app we made 💚 - https://safely-home.com/
 
 <!---
 acmasters17/acmasters17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
